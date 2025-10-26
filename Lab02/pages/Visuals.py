@@ -70,7 +70,7 @@ st.subheader("Graph 1: Static")
 # - Create a static graph (e.g., bar chart, line chart) using st.bar_chart() or st.line_chart().
 # - Use data from either the CSV or JSON file.
 # - Write a description explaining what the graph shows.
-st.line_chart(df_json)
+st.line_chart(df_json, x="Year", y=df_json.columns.drop("Year"))
 st.write("Description: The carbon emissions steadily increase from 2018-2020, then unevenly drop.")
 
 
