@@ -1,0 +1,29 @@
+{
+    "chart_title": "Total Greenhouse Gas Emissions of Gambia in Megatons",
+    "data_points": [
+        {
+            "Year": "2018",
+            "Total Emissions": 3.0101
+        },
+        {
+            "Year": "2019",
+            "Total Emissions": 3.1107
+        },
+        {
+            "Year": "2020",
+            "Total Emissions": 3.1152
+        },
+ 	{
+            "Year": "2021",
+            "Total Emissions": 3.0294
+        }, 
+ 	{
+            "Year": "2022",
+            "Total Emissions": 3.1103
+        },
+ 	{
+            "Year": "2023",
+            "Total Emissions": 0
+        }
+    ]
+}
